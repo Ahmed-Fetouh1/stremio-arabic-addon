@@ -1,0 +1,5 @@
+{
+  "name": "Arabic Multi-Source Stremio Addon",
+  "description": "A web interface to install and learn about the Arabic Multi-Source Stremio Addon, providing access to content from popular Arabic streaming sites.",
+  "requestFramePermissions": []
+}
